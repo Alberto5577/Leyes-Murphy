@@ -12,5 +12,12 @@ p {
     font-size: 1.5em;
 }
 p#m1 {
-    
+    position: absolute;
+    top: 8%;
+    left: 10%;
+    width: 80%;
+    height: 10%;
+    border: hsl(40, 40%, 35%) 2px solid;
+    background-color: #FFD480;
+    text-align: center;
 }
