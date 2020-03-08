@@ -21,3 +21,54 @@ p#m1 {
     background-color: #FFD480;
     text-align: center;
 }
+p#m2 {
+    position: absolute;
+    top: 40%;
+    left: 32%;
+    width: 35%;
+    height: 30%;
+    z-index: 2;
+    background-color: #80FF80;
+    border: 4px solid #367D36;
+    text-align: center;
+}
+p#m3 {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    width: 35%;
+    height: 25%;
+    background-color: #FFFF80;
+    border: 4px solid #D6D643;
+    text-align: left;
+}
+p#m4 {
+    position: absolute;
+    top: 25%;
+    right: 5%;
+    width: 35%;
+    height: 25%;
+    background-color: #CCFFFF;
+    border: 4px solid #9FC6C6;
+    text-align: right;
+}
+p#m5 {
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+    width: 35%;
+    height: 25%;
+    background-color: #FFE5FF;
+    border: 4px solid #BEA7BE;
+    text-align: left;
+}
+p#m6 {
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+    width: 35%;
+    height: 25%;
+    background-color: #FFB3B3;
+    border: 4px solid #846262;
+    text-align: right;
+}
