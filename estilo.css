@@ -72,3 +72,6 @@ p#m6 {
     border: 4px solid #846262;
     text-align: right;
 }
+p:hover {
+    z-index: 3;
+  }
