@@ -75,3 +75,7 @@ p#m6 {
 p:hover {
     z-index: 3;
   }
+  footer {
+      position: absolute;
+      
+  }
